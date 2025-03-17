@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\IT\Programs\Morse code\bin\Debug\net9.0\Morse code.exe
+C:\Users\danya\source\repos\IT\Programs\Morse code\bin\Debug\net9.0\Morse code.deps.json
+C:\Users\danya\source\repos\IT\Programs\Morse code\bin\Debug\net9.0\Morse code.runtimeconfig.json
+C:\Users\danya\source\repos\IT\Programs\Morse code\bin\Debug\net9.0\Morse code.dll
+C:\Users\danya\source\repos\IT\Programs\Morse code\bin\Debug\net9.0\Morse code.pdb
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.AssemblyInfo.cs
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.dll
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\refint\Morse code.dll
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.pdb
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\Morse code.genruntimeconfig.cache
+C:\Users\danya\source\repos\IT\Programs\Morse code\obj\Debug\net9.0\ref\Morse code.dll
